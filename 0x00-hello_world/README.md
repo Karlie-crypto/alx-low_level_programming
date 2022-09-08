@@ -1,1 +1,1 @@
-My betty repo
+My second project
