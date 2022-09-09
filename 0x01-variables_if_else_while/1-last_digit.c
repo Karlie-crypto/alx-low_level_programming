@@ -32,11 +32,5 @@ int main(void)
 		{
 			printf("Last digit of %d is %d and is less than 6 and not 0\n", n, last);
 		}
-	}
-	return (0);
+	}	return (0);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-
