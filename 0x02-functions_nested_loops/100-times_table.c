@@ -1,36 +1,46 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
- * print_to_98 - Check Holberton
- * @n: A input integer
- * Description: function that prints all natural numbers
- * from n to 98, followed by a new line.
- * Return: Nothing
+ * print_times_table - prints the n times table, starting with 0
+ * @n: number of the times table
  */
-void print_to_98(int n)
+void print_times_table(int n)
 {
-	if (n <= 98)
-	{
-		for (; n <= 98; n++)
-		{
-			printf("%d", n);
+	int i, j, k;
 
-			if (n == 98)
-				continue;
-			printf(", ");
-		}
-		printf("\n");
-	}
-	else
+	if (n >= 0 && n <= 15)
 	{
-		for (; n >= 98; n--)
+		for (i = 0; i <= n; i++)
 		{
-			printf("%d", n);
-			if (n == 98)
-				continue;
-			printf(", ");
+			for (j = 0; j <= n; j++)
+			{
+				k = j * i;
+				if (j == 0)
+				{
+					_putchar(k + '0');
+				} else if (k < 10 && j != 0)
+				{
+					_putchar(',');
+					_putchar(' ');
+					_putchar(' ');
+					_putchar(' ');
+					_putchar(k + '0');
+				} else if (k >= 10 && k < 100)
+				{
+					_putchar(',');
+					_putchar(' ');
+					_putchar(' ');
+					_putchar((k / 10) + '0');
+					_putchar((k % 10) + '0');
+				} else if (k >= 100)
+				{
+					_putchar(',');
+					_putchar(' ');
+					_putchar((k / 100) + '0');
+					_putchar(((k / 10) % 10) + '0');
+					_putchar((k % 10) + '0');
+				}
+			}
+			_putchar('\n');
 		}
-		printf("\n");
 	}
-}
