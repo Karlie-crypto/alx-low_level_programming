@@ -1,5 +1,12 @@
 #ifndef MAIN_H
-#define MAINN_H
+#define MAIN_H
+
+/*
+ * File: main.h
+ * Auth: Karlie Moyo
+ * Desc: Header file containing the prototypes of all functions
+ *       included in the static library libholberton.a.
+ */
 
 int _putchar(char c);
 int _islower(int c);
