@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <limits.h>
 /**
  * main - multiplies two positive numbers
  * @argc: argument count
@@ -23,7 +22,6 @@ int main(int argc, char *argv[])
 		multiply(s, f);
 	return (0);
 }
-
 /**
  * multiply - multiplies two numbers and displays it
  * @f: first "number"
@@ -77,36 +75,6 @@ int onlyNumbers(char *c)
 		c++;
 	}
 	return (1);
-}
-
-/**
- * _strlen - returns the length of a string
- * @s: string s
- * Return: length of string
- */
-int _strlen(char *s)
-{
-	char *p = s;
-
-	while (*s)
-		s++;
-	return (s - p);
-}
-
-/**
- * _memset - fills memory with a constant byte
- * @s: memory area
- * @b: constant byte
- * @n: bytes of the memory area
- * Return: pointer to the memory area s
- */
-char *_memset(char *s, char b, unsigned int n)
-{
-	char *ptr = s;
-
-	while (n--)
-		*s++ = b;
-	return (ptr);
 }
 
 /**
