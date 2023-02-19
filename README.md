@@ -1,21 +1,34 @@
 
-# ALX SYSTEM ENGINEERING - DEVOPS
+# ALX LOW LEVEL PROGRAMMING
 
-<img alt="coding" width="784" height="350" src="https://github.com/Karlie-crypto/alx-system_engineering-devops/blob/master/new.png" />
+<img undraw_coding_re_iv62.svg src"https://github.com/Karlie-crypto/alx-low_level_programming/blob/main/undraw_coding_re_iv62.svg" />
 
-This repository contains programs created for the _**ALX Software Engineering** Programs._ Your girl here is ready for collaborations, Currently sharpening my knowledge and skills of C and shell scripting. Hey you! Come let's do hard things. The following is a specific list of projects :
+This repository contains programs created for the _**ALX Software Engineering** Programs._ Your girl here is ready for collaborations, Currently sharpening my knowledge and skills of C, Linux, Algorithms and Data Structures. Hey you! Come let's do hard things.This repository contains programs written for the low-level programming and algorithm track in the ALX Software Engineering Program. In these projects I learned about data structures, algorithms, and other low-level programming concepts while working in the C programming language. The following is a specific list of projects :
 
-- [0x00. Shell - Shell_Basics](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x00-shell_basics)
-- [0x01. Shell - Shell_Permissions](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x01-shell_permissions)
-- [0x02. Shell - Shell_Redirections](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x02-shell_redirections)
-- [0x03. Shell - Shell_Variables_Expansions](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions)
-- [0x04-loops_conditions_and_parsing](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing)
-- [command_line_for_the_win](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/command_line_for_the_win)
-- [0-iam_betty](https://github.com/Karlie-crypto/alx-system_engineering-devops/blob/master/0-iam_betty)
-- [0x05-processes_and_signals](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x05-processes_and_signals)
-- [0x06-regular_expressions](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x06-regular_expressions)
-- [0x07-networking_basics](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x07-networking_basics)
-- [0x08-networking_basics_2](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x08-networking_basics_2)
+- [0x00-hello_world](https://github.com/Karlie-crypto/alx-low_level_programming/tree/main/0x00-hello_world)
+- [0x01-variables_if_else_while](https://github.com/Karlie-crypto/alx-low_level_programming/tree/main/0x01-variables_if_else_while)
+- [0x02-functions_nested_loops](https://github.com/Karlie-crypto/alx-low_level_programming/tree/main/0x02-functions_nested_loops)
+- [0x03-debugging](https://github.com/Karlie-crypto/alx-low_level_programming/tree/main/0x03-debugging)
+- [0x04-more_functions_nested_loops](https://github.com/Karlie-crypto/alx-low_level_programming/tree/main/0x04-more_functions_nested_loops)
+- [0x05-pointers_arrays_strings](https://github.com/Karlie-crypto/alx-low_level_programming/tree/main/0x05-pointers_arrays_strings)
+- [0x06-pointers_arrays_strings](https://github.com/Karlie-crypto/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings)
+- [0x07-pointers_arrays_strings](https://github.com/Karlie-crypto/alx-low_level_programming/tree/main/0x07-pointers_arrays_strings)
+- [0x08-recursion](https://github.com/Karlie-crypto/alx-low_level_programming/tree/main/0x08-recursion)
+- [0x09-static_libraries](https://github.com/Karlie-crypto/alx-low_level_programming/tree/main/0x09-static_libraries)
+- [0x0A-argc_argv](https://github.com/Karlie-crypto/alx-low_level_programming/tree/main/0x0A-argc_argv)
+- [0x0B-malloc_free](https://github.com/Karlie-crypto/alx-low_level_programming/tree/main/0x0B-malloc_free)
+- [0x0C-more_malloc_free](https://github.com/Karlie-crypto/alx-low_level_programming/tree/main/0x0C-more_malloc_free)
+- [0x0D-preprocessor](https://github.com/Karlie-crypto/alx-low_level_programming/tree/main/0x0D-preprocessor)
+- [0x0E-structures_typedef](https://github.com/Karlie-crypto/alx-low_level_programming/tree/main/0x0E-structures_typedef)
+- [0x0F-function_pointers](https://github.com/Karlie-crypto/alx-low_level_programming/tree/main/0x0F-function_pointers)
+- [0x10-variadic_functions](https://github.com/Karlie-crypto/alx-low_level_programming/tree/main/0x10-variadic_functions)
+- [0x12-singly_linked_lists](https://github.com/Karlie-crypto/alx-low_level_programming/tree/main/0x12-singly_linked_lists)
+- [0x13-more_singly_linked_lists](https://github.com/Karlie-crypto/alx-low_level_programming/tree/main/0x13-more_singly_linked_lists)
+- [0x14-bit_manipulation](https://github.com/Karlie-crypto/alx-low_level_programming/tree/main/0x14-bit_manipulation)
+- [0x15-file_io](https://github.com/Karlie-crypto/alx-low_level_programming/tree/main/0x15-file_io)
+- [0x17-doubly_linked_lists](https://github.com/Karlie-crypto/alx-low_level_programming/tree/main/0x17-doubly_linked_lists)
+- [0x18-dynamic_libraries](https://github.com/Karlie-crypto/alx-low_level_programming/tree/main/0x18-dynamic_libraries)
+- [0x1A-hash_tables](https://github.com/Karlie-crypto/alx-low_level_programming/tree/main/0x1A-hash_tables)
 
 ### AUTHOR:
 <details>
