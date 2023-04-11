@@ -1,3 +1,4 @@
+PROJECT NAME
 # 0x1E. C - Search Algorithms
 
 | TASK | FILE                                             | DESCRIPTION |
