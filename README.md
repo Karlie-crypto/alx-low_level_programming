@@ -34,7 +34,7 @@ This repository contains programs created for the _**ALX Software Engineering** 
 | 0x18  | [C - Dynamic libraries](./0x18-dynamic_libraries)                                 |             |
 | 0x19  | [C - Stacks, Queues - LIFO, FIFO](https://github.com/Karlie-crypto/monty)         |             |
 | 0x1A  | [C - Hash tables](./0x1A-hash_tables)                                             |             |
-| 0x1B  | [C - Sorting algorithms & Big O](https://github.com/Karlie-crypto/sorting_algorith|             |
+| 0x1B  | [C - Sorting algorithms & Big O](https://github.com/Karlie-crypto/sorting_algorithms)             
 | 0x1C  | [C - Makefiles](./0x1C-makefiles)                                                 |             |
 | 0x1D  | [C - Binary trees](https://github.com/Karlie-crypto/binary_trees)                 |             |
 | 0x1E  | [C - Search Algorithms](./0x1E-search_algorithms)                                 |             |
